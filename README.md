@@ -21,6 +21,7 @@
 #### 2024/04 - 現在 : 開発統括本部 プロダクト開発本部 開発1部 Androidグループ
 #### 職務内容
 - 自社モバイルアプリプラットフォームのAndroid アプリ開発
+- Androidグループのマネージャーやプロジェクトのリードをしながら、組織の開発効率向上のための取り組みやチームビルディングなどに取り組んでいる
 
 ## 株式会社マネーフォワード
 #### 2022/03 - 2024/03 : ホームカンパニーHOME本部プロダクト開発部 Androidエンジニア
@@ -69,6 +70,7 @@
     - [多分怖くない, Androidとハードウェア](https://2021.droidkaigi.jp/timetable/277303/?day=3)
 
 ## 寄稿歴
+
 - [Ink APIさわってみた](https://tech.yappli.io/entry/ink-api-challenge)
 - [DroidKaigi 2024で登壇してきました](https://tech.yappli.io/entry/droidkaigi-2024-present-report)
 - [Kotlin Fest 2024で登壇してきました](https://tech.yappli.io/entry/kotlin-fest-2024)
